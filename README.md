@@ -1,6 +1,7 @@
 <em>DivisasConvertApp </em>
 
-![DivisasConvertSmall](https://github.com/user-attachments/assets/1ea79f8c-cdba-4a7e-87b3-038bc54204ec)
+![DivisasConvertSmall](https://github.com/user-attachments/assets/d40f4b0e-68fc-4339-bf50-1c2654d6d829)
+
 
 
 ## Descripción delproyecto: Conversor de monedas que utiliza llamadas REST API
