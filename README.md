@@ -73,4 +73,3 @@
 
 <p align="left">
 <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
-</p>![image](https://github.com/user-attachments/assets/bc96a0c8-5594-4912-a029-f791d746dacf)
